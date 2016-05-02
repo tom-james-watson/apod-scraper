@@ -1,0 +1,23 @@
+{
+  "name": "apod-scraper",
+  "version": "1.0.0",
+  "description": "A Node script for scraping all images from NASA Astronomy Picture of the Day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-james-watson/apod-scraper.git"
+  },
+  "author": "Tom James Watson (tom.james.watson@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tom-james-watson/apod-scraper/issues"
+  },
+  "homepage": "https://github.com/tom-james-watson/apod-scraper#readme",
+  "devDependencies": {
+    "apod": "^0.3.0",
+    "jsonfile": "^2.3.0"
+  }
+}
